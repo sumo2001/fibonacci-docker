@@ -9,4 +9,6 @@ This is a fibonacci based dockeraized application, where the home page presents 
    - cd fibonaaci-docker
    - docker-compose up
    - open your local browser and type in localhost:3050
+   - Pass in your index you wanna find out and submit it
+   - Refresh the page
 ![image](https://user-images.githubusercontent.com/51809378/161121536-fbc10a3e-31c3-4088-9fbd-a0455e36202e.png)
