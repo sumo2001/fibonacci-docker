@@ -7,7 +7,7 @@ This is a fibonacci based dockeraized application, where the home page presents 
 
 
 ## The Architecture Explained:
-- The application contains of server, client and worker on top of them we have a nginx application running to recieve and process oour requests
+- The application contains server, client and a worker on top of them we have a nginx application running to recieve and process our requests
 - We will have a react server for nice little GUI to take input from the end user
 - We will have an Express server to do manage all the api calls to respond and reply back accordingly
 - We will have a postgres and redis server in the back ground, to store our input indcies and the values of the indicies given
